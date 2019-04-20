@@ -1,0 +1,36 @@
+
+.btext{
+    color: #f9f3f4;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    width: 50%;
+    line-height: 0.4em;
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+.btn:hover{
+    color: #b19295;
+    border: #fff 1px solid;
+}
+
+#particles-js{
+    background-image: url('image1.jpg');
+    height: 100vh;
+}
+
+.ig-thumbnail {
+    width: 100px;
+    height: 100px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img {
+    width: 100px;
+
+}
